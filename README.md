@@ -5,14 +5,27 @@
 </head>
 <body>
 
+
 <h1> 🚀 <b> Bito AI – the Swiss Army knife to be a 10x dev! </b></h1>
+</br>
+<div class="important-note">
+  <p>Note: Bito code is not public. This repository contains document and intended to be used for the Bito users to report the issues . Please report any issue/feature request by opening a new issue, or send an e-mail to support@bito.co.</p>
+</div>
+</br>
+ <style>
+  .important-note {
+    background-color: #fcf8e3;
+    border: 1px solid #faebcc;
+    padding: 10px;
+    color:#333333;
+  }
+</style>
 
 <h2>🔑 <b> What does Bito AI do?</b></h2>
 
 <p class="paragraphNormal">
 
 [Bito's](https://bito.co/) AI Assistant uses the same AI as ChatGPT in your IDE and Chrome to help developers dramatically accelerate their impact.  Bito AI makes it easy to write code, understand syntax, write test cases, explain code, comment code, check security, and even explain high level concepts.  Trained on billions of lines of code and technical knowledge, it’s pretty incredible what we can help you do without having to search the web or waste time on tedious stuff.
-
 </p>
 
 <h2>😊 <b> What does Bito’s AI Assistant help with? Ask any technical question </b></h2>
