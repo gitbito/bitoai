@@ -8,19 +8,10 @@
 
 <h1> 🚀 <b> Bito AI – the Swiss Army knife to be a 10x dev! </b></h1>
 </br>
-<div class="important-note">
+<div div class="important-note" style="background-color: #fcf8e3; border: 1px solid #faebcc; padding: 10px; color:#333333;">
   <p>Note: Bito code is not public. This repository contains document and intended to be used for the Bito users to report the issues . Please report any issue/feature request by opening a new issue, or send an e-mail to support@bito.co.</p>
 </div>
 </br>
- <style>
-  .important-note {
-    background-color: #fcf8e3;
-    border: 1px solid #faebcc;
-    padding: 10px;
-    color:#333333;
-  }
-</style>
-
 <h2>🔑 <b> What does Bito AI do?</b></h2>
 
 <p class="paragraphNormal">
