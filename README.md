@@ -1,28 +1,8 @@
 <!DOCTYPE html>
 
 <html>
-
 <head>
-
-<style>
-
-h1   {text-align: left; font-size: 28px; margin-bottom: 0px}
-h2   {text-align: left; font-size: 22px; margin-bottom: 0px}
-h3   {text-align: left; font-size: 18px; margin-bottom: 0px}
-li   {margin: 5px;}
-
-.paragraph {
-  text-align: left; 
-  font-size: 14px;
-}
-
-.paragraphNormal {
-  text-align: justify;
-}
-
-</style>
 </head>
-
 <body>
 
 <h1> 🚀 <b> Bito AI – the Swiss Army knife to be a 10x dev! </b></h1>
