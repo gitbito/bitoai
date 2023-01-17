@@ -6,7 +6,7 @@
 <body>
 
 
-<h1> 🚀 <b> Bito AI – Bringing ChatGPT to your IDE to 10x your dev abilities!</b></h1>
+<h1> 🚀 <b> Bito AI – Bring ChatGPT to your IDE to 10x your dev abilities!</b></h1>
 </br>
 <div div class="important-note" style="background-color: #fcf8e3; border: 1px solid #faebcc; padding: 10px; color:#333333;">
   <p>Note: Bito code is not public. This repository contains document and intended to be used for the Bito users to report the issues . Please report any issue/feature request by opening a new issue, or send an e-mail to support@bito.co.</p>
