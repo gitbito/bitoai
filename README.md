@@ -6,17 +6,17 @@
 <body>
 
 
-<h1> 🚀 <b> Bito AI – Bring ChatGPT to your IDE to 10x your dev abilities!</b></h1>
+<h1> 🚀 <b> Bito AI – Bring ChatGPT to your IDE to 10x your dev abilities! </b></h1>
 </br>
 <div div class="important-note" style="background-color: #fcf8e3; border: 1px solid #faebcc; padding: 10px; color:#333333;">
-  <p>Note: Bito code is not public. This repository contains document and intended to be used for the Bito users to report the issues . Please report any issue/feature request by opening a new issue, or send an e-mail to support@bito.co.</p>
+  <p>Note: Bito code is not public. This repository contains document and intended to be used for the Bito users to report the issues. Please report any issue/feature request by opening a new issue, or send an e-mail to support@bito.ai.</p>
 </div>
 </br>
 <h2>🔑 <b> What does Bito AI do?</b></h2>
 
 <p class="paragraphNormal">
 
-[Bito's](https://bito.co/) AI Assistant uses the same AI as ChatGPT in your IDE and Chrome to help developers dramatically accelerate their impact.  Bito AI makes it easy to write code, understand syntax, write test cases, explain code, comment code, check security, and even explain high level concepts.  Trained on billions of lines of code and technical knowledge, it’s pretty incredible what we can help you do without having to search the web or waste time on tedious stuff.
+[Bito's](https://bito.ai/) AI Assistant uses the same AI as ChatGPT in your IDE and Chrome to help developers dramatically accelerate their impact.  Bito AI makes it easy to write code, understand syntax, write test cases, explain code, comment code, check security, and even explain high level concepts.  Trained on billions of lines of code and technical knowledge, it’s pretty incredible what we can help you do without having to search the web or waste time on tedious stuff.
 </p>
 
 <h2>😊 <b> What does Bito’s AI Assistant help with? Ask any technical question </b></h2>
@@ -109,7 +109,7 @@ Just follow the steps below:
 </li>
 
 <li>
-   If you have any questions, please join <a href="https://bito-community.slack.com/join/shared_invite/zt-1kkz6gcjm-uXjctARCmQpXGHDVNrPczA#/shared-invite/email">our user group at Slack</a> or email us at <a href="mailto:support@bito.co">support@bito.co</a>
+   If you have any questions, please join <a href="https://bito-community.slack.com/join/shared_invite/zt-1kkz6gcjm-uXjctARCmQpXGHDVNrPczA#/shared-invite/email">our user group at Slack</a> or email us at <a href="mailto:support@bito.ai">support@bito.ai</a>
 </li>
 
 </ol>
@@ -136,11 +136,11 @@ Just follow the steps below:
    </li>
    
    <li>
-      <b>Does Bito store my code?</b> Security and privacy were foremost on our mind when building Bito.Bito does not store any of your code, we only store metadata including file name, and line numbers.All messages and metadata are encrypted in transit and encrypted at rest. Contact us at <a href="mailto:support@bito.co">support@bito.co</a> if you would like to provide your own keys for encryption or discuss other options.
+      <b>Does Bito store my code?</b> Security and privacy were foremost on our mind when building Bito.Bito does not store any of your code, we only store metadata including file name, and line numbers.All messages and metadata are encrypted in transit and encrypted at rest. Contact us at <a href="mailto:support@bito.ai">support@bito.ai</a> if you would like to provide your own keys for encryption or discuss other options.
    </li>
    
    <li>
-      <b>What security measures does Bito employ?</b> Security and privacy were foremost on our mind when building Bito. We do not store or view any of your code ever. All messages and metadata are encrypted in transit and encrypted at rest. Contact us at <a href="mailto:support@bito.co">support@bito.co</a> if you would like to provide your own keys for encryption or discuss other options.
+      <b>What security measures does Bito employ?</b> Security and privacy were foremost on our mind when building Bito. We do not store or view any of your code ever. All messages and metadata are encrypted in transit and encrypted at rest. Contact us at <a href="mailto:support@bito.ai">support@bito.ai</a> if you would like to provide your own keys for encryption or discuss other options.
    </li>
 
    <li>
