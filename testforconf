@@ -1,1 +1,17 @@
+Can you write a simple HTML page for me? It needs to be with CSS styles. For the part that involves images, you can use the images provided by the Placeholder.com website. The "href" attribute of all "a" tags should be the well "#", and the "action " attribute of all forms should be the well "#".
 
+The main colour of the site is pink (#ff709b), the secondary colours are purple (#CE85F8) and yellow (#f2f2f2), the text is in black and the background is white.
+
+The page is divided into the following sections.
+
+1. Navigation bar
+The navigation bar contains the name of the site "Laura Edell Presents the Power of Gen AI", navigation links (Home, Works, News, About), and a search button.
+
+2. Body of the page
+As this page is the home page, it is divided into the following sections.
+- The first screen: contains the background image, the main title (Laura Edell Presents), the subtitle (Power of Gen AI), and a link to the 'Explore' button (to jump to the 'Works' section).
+- Artwork: four links to four creative style images in a row. When the mouse is placed over it, the name of the work and a right arrow are displayed. On mobile it appears as two in a row.
+- Dynamic: three blog post cards in a row of three. A blog post card contains these elements: title, date of publication, summary of the post (you can write me 50 words, I will replace this myself), "Continue reading" button.
+- Subscribe: left and right structure, lefthand side with the title "Subscribe to our emails and be the first to receive new content every time we publish it." On the right hand side there is a form with an email text box and a submit button. 
+
+3. footer: attach the year you think it is, and your own name.
