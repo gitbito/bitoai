@@ -6,163 +6,128 @@
 <body>
 
 
-<h1> 🚀 <b> Bito AI – Bring ChatGPT to your IDE to 10x your dev abilities! </b></h1>
-</br>
-<div div class="important-note" style="background-color: #fcf8e3; border: 1px solid #faebcc; padding: 10px; color:#333333;">
-  <p>Note: Bito code is not public. This repository contains document and intended to be used for the Bito users to report the issues. Please report any issue/feature request by opening a new issue, or send an e-mail to support@bito.ai.</p>
+<h1> <b> Bito Agentic AI Code Reviews </b></h1>
+  <p class="paragraphNormal">
+  Get codebase-aware feedback in your GitHub, GitLab, Bitbucket pull requests or directly in your IDE. Merge PRs 89% faster and ship clean code the first time. No credit card is requred to start a 14-day free trial.
+  <br><br>
+  Developers start free at https://bito.ai.
+  </p>
+
 </div>
 </br>
-<h2>🔑 <b> What does Bito AI do?</b></h2>
+<h2> <b> What is Bito</b></h2>
 
 <p class="paragraphNormal">
 
-[Bito's](https://bito.ai/) AI Assistant uses the same AI as ChatGPT in your IDE and Chrome to help developers dramatically accelerate their impact.  Bito AI makes it easy to write code, understand syntax, write test cases, explain code, comment code, check security, and even explain high level concepts.  Trained on billions of lines of code and technical knowledge, it’s pretty incredible what we can help you do without having to search the web or waste time on tedious stuff.
-</p>
+[Bito](https://bito.ai/) helps engineering teams ship better code, faster, and win back 1 day per sprint. Powered by Claude Sonnet 4, top-tier AI models, and Bito’s proprietary prompt framework, Bito’s AI Code Review Agent delivers smart, high-quality code suggestions with full codebase context.
+<br><br>
+Use Bito directly in your IDE for instant pre-PR reviews or in your Git workflows across GitHub, GitLab, and Bitbucket. See Bito work:</p>
 
-<h2>😊 <b> What does Bito’s AI Assistant help with? Ask any technical question </b></h2>
+[![See Bito's AI Code Review work](https://i.imgur.com/iUFnfuK.png)](https://youtu.be/WukH9rA_5go "See Bito's AI Code Review work")
 
-<p class="paragraphNormal">
+<br>
 
-<ol>
-
-<li>
-   Generate Code: Examples: “code in java to convert a number from one base to another”, “code to implement a simple REST API in GO”
-</li>
-
-<li>
-   Command Syntax: “how to set git config variables”, “create an encrypted s3 bucket using the AWS cli”
-</li>
-
-<li>
-   Test Cases: “Generate test cases for this code &lt; <i>insert your code here</i> &gt;"
-</li>
-
-<li>
-   Explain code: “explain this code &lt; <i>insert your code here</i> &gt;”
-</li>
-
-<li>
-   Comment Method: “Explain this code and explain the parameters &lt; <i>insert your code here</i> &gt;”
-</li>
-
-<li>
-   Improve Performance: “how can I improve performance of this code? &lt; <i>insert your code here</i> &gt;”
-</li>
-
-<li>
-   Check Security: “Is this code secure? &lt; <i>insert your code here</i> &gt;”
-</li>
-
-<li>
-   Explain concepts: "explain B+ trees, give an example with code", “explain banker’s algorithm”
-</li>
-
-</ol>
-
-<p class="paragraphNormal">
-   This tool is far from perfect. Compile and verify before using! 😊
-</p>
-
-<a href="https://www.loom.com/share/5837730f6ca341579923532d4e558dc9">
-   <img src="https://res.cloudinary.com/bito1/image/upload/v1670928844/marketplace/bito-all-use-cases-demo_glxlqd.gif" />
-</a>
-
-<h3><b><ins> Examples:</ins></b></h3>
-<br/>
-<p class="paragraph">
-    Ask any technical question.
-</p>
-
-<p>
-   <img src="https://res.cloudinary.com/bito1/image/upload/v1670846887/marketplace/code_in_java_example2_jnz3ok.png" alt="code in java to convert a number from one base to another" />
-   <img src="https://res.cloudinary.com/bito1/image/upload/v1670846887/marketplace/how_to_set_git_config_example2_qqufey.png" alt="how to set git config" />
-</p>
-
-<p class="paragraph">
-   Choose a selection of code, and right click to explain it, ir automatically generate the test cases. 
-</p>
-
-<p>
-   <img src="https://res.cloudinary.com/bito1/image/upload/v1670846887/marketplace/explain_this_code1_ghi2ab.png" alt="explain this code" />
-   <img src="https://res.cloudinary.com/bito1/image/upload/v1670846888/marketplace/generate_unit_test_case1_xehzcs.png" alt="generate unit test case" />
-</p>
-
-
-<h2><b> How to get started with Bito?</b></h2>
+<h2><b> Key features </b></h2>
 
 <p class="paragraphNormal">
 
-Just follow the steps below:
-
-<ol>
-
-<li>
-   Download the extension from this page or your IDE marketplace.
-</li>
-
-<li>
-   If you are the first user for your organization, Bito will ask you to create a workspace. You can set it so that everyone with the same domain can automatically join or you can <a href="https://alpha.bito.co/home/settings/members">add teammate(s) to your workspace</a> to collaborate. Bito works best when you have a few teammates to collaborate with.
-</li>
-
-<li>
-   Check out our guide for more detailed instructions at <a href="https://docs.bito.co/getting-started/installing-bito-extension">Installing Bito Extension</a>
-</li>
-
-<li>
-   If you have any questions, please join <a href="https://bito-community.slack.com/join/shared_invite/zt-1kkz6gcjm-uXjctARCmQpXGHDVNrPczA#/shared-invite/email">our user group at Slack</a> or email us at <a href="mailto:support@bito.ai">support@bito.ai</a>
-</li>
-
-</ol>
-
-</p>
-
-<h2><b>Here’s what people are saying:</b></h2>
-
-<p class="paragraphNormal">
-   “I feel like I’m saving 1-2 hours a day to get things done so much faster.” – Rohan Bankar, Principal Architect, PubMatic
-</p>
-
-<p class="paragraphNormal">
-   “This is amazing.  It helped me write test cases, write code, and it gave me a detailed summary of Scala and Java code.” – Prashant Mahajan, Co-founder & CTO, Privado
-</p>
-
-<h2><b>FAQ</b></h2>
-
-<p class="paragraphNormal">
-
-<ol>
-   <li>
-      <b>What is the cost of Bito?</b> Bito is currently in alpha and is free to use.
-   </li>
-   
-   <li>
-      <b>Does Bito store my code?</b> Security and privacy were foremost on our mind when building Bito.Bito does not store any of your code, we only store metadata including file name, and line numbers.All messages and metadata are encrypted in transit and encrypted at rest. Contact us at <a href="mailto:support@bito.ai">support@bito.ai</a> if you would like to provide your own keys for encryption or discuss other options.
-   </li>
-   
-   <li>
-      <b>What security measures does Bito employ?</b> Security and privacy were foremost on our mind when building Bito. We do not store or view any of your code ever. All messages and metadata are encrypted in transit and encrypted at rest. Contact us at <a href="mailto:support@bito.ai">support@bito.ai</a> if you would like to provide your own keys for encryption or discuss other options.
-   </li>
-
-   <li>
-      <b>How to manually re-load in case VS Code does not prompt to re-load IDE after installing BITO extension?</b> Sometimes while installing/re-installing the same version of Bito extension (*.vsix-1.x.x) which was already in use, VS Code may not prompt to re-load the VS Code editor. To manually solve for this do the following: 
-   
 <ul>
 
-   <li>
-      Open the command palette ( Ctrl + Shift + P ) and execute the command: >Reload Window.
-   </li>
-
-   <li>
-      <b>OR</b> Use command key Alt+F4 to close window Or, Select Close Window from File menu and re-open VS Code editor
-   </li>
-
-</ul>
-
+<li>
+   <b>AI that understands your code</b>: Bito brings contextual awareness to each review, offering insights just like a senior engineer.
 </li>
 
-</ol>
+<li>
+   <b>1 click setup for Git workflows</b>: Supports GitHub cloud, GitHub Enterprise (self-hosted), GitLab cloud, GitLab (self-hosted), Bitbucket cloud, Bitbucket Enterprise (self-hosted).
+</li>
 
+<li>
+   <b>Pull request summary</b>: A quick, detailed summary gives the reviewer context, defines the type of PR and estimates the effort to review.
+</li>
+
+<li>
+   <b>1 click to accept suggestions</b>: Pro quality suggestions and code fixes at the line level and inline. Accept suggestions with 1 click.
+</li>
+
+<li>
+   <b>Chat with the Agent</b>: Ask follow-up questions on PR feedback, request alternate fixes, or get clarifications directly in the PR. Supports 20+ languages.
+</li>
+
+<li>
+   <b>Changelist</b>: A simple, clear table added directly to pull request comments, summarizing changes and highlighting impacted files.
+</li>
+
+<li>
+   <b>Static code analysis</b>: Built-in best in class static analysis tools like Mypy and fbinfer.
+</li>
+
+<li>
+   <b>Linter support</b>: Integrated support for popular linters like ESLint, golangci-lint, and Astral Ruff, enabling automated checks for consistent, clean code.
+</li>
+
+<li>
+   <b>Security analysis</b>: Integrates tools like Snyk, Whispers, and detect-secrets to identify vulnerabilities and protect your codebase.
+</li>
+
+<li>
+   <b>Incremental code reviews</b>: Focused feedback on the latest updates.
+</li>
+
+<li>
+   <b>Smart reports</b>: In-depth insights into your org’s code reviews like # of PRs, issues found, lines of code reviewed, and track individual contributors.
+</li>
+
+<li>
+   <b>Custom code review rules</b>: Automatically refines suggestions based on your feedback. Customize reviews by providing guidelines to enforce best practices.
+</li>
+
+<li>
+   <b>Run in the cloud</b>: No downloads required. Install the Agent via the GitHub App or integrate seamlessly with GitLab or Bitbucket.
+</li>
+
+<li>
+   <b>Run on-premises</b>: Optionally install and run Agents via self-hosted docker images for enhanced security.
+</li>
+
+<li>
+   <b>Language support</b>: Supports all major programming languages.
+</li>
+
+</ul>
 </p>
+<br>
+
+
+<h2><b>Your code, your control</b></h2>
+
+<p class="paragraphNormal">
+
+Security is top of mind at Bito, especially when it comes to your code. A fundamental approach we have taken is we do not store any code, code snippets, indexes or embedding vectors on Bito’s servers unless you expressly allow it.  You decide where you want to store your code, either locally on your machine, in your cloud, or on Bito’s cloud.  Importantly, our AI partners do not store any of this information.
+<br><br>
+All requests are transmitted over HTTPS and are fully encrypted.
+<br><br>
+None of your code or AI requests are used for AI model training. None of your code or AI requests are stored by our AI partners. Our AI model partners are OpenAI, Anthropic, and Google.
+<br><br>
+[Read our security promise](https://docs.bito.ai/privacy-and-security?_gl=1*40lx1c*_gcl_au*Nzg1MTYyOTE1LjE3NTU4OTY0Mjg.)
+</p>
+<br>
+
+<h2><b>Get started or read documentation</b></h2>
+
+Here's a list of informative resources and docs to help you evaluate and get started with Bito.
+<br><br>
+[Sign up for a Bito account](https://alpha.bito.ai/auth/login)<br>
+[What’s new from Bito’s changelog](https://docs.bito.ai/whats-new)<br>
+[AI Code Reviews in Git](https://docs.bito.ai/bito-dev-agents/ai-code-review-agent)<br>
+[AI Code Reviews in IDE](https://docs.bito.ai/ai-code-review-agent/ai-code-reviews-in-ide)<br>
+[Bito’s AI stack and technologies](https://docs.bito.ai/bitos-ai-stack)<br>
+[Get support from our team](https://docs.bito.ai/support-and-questions)<br>
+[Explore Bito’s pricing plans](https://bito.ai/pricing/)<br>
+<br><br>
+Bito is subject to the [Bito Terms of Use](https://bito.ai/terms-of-use/) and [Privacy Statement](https://bito.ai/privacy-policy/).
+</p>
+<br>
+
 
 </body>
 
